@@ -45,7 +45,7 @@
             "username": "Samantha",
             "email": "Nathan@yesenia.net",
             "state": "OH",
-            "city": "McKenziehaven",
+            "city": "Ashland",
             "zipcode": "59590-4157",
             "geo": {
                 "lat": "40.080785",
@@ -60,7 +60,7 @@
             "username": "Karianne",
             "email": "Julianne.OConner@kory.org",
             "state": "OH",
-            "city": "South Elvis",
+            "city": "Mansfield",
             "zipcode": "53919-4257",
             "geo": {
                 "lat": "40.080785",
@@ -75,7 +75,7 @@
             "username": "Kamren",
             "email": "Lucio_Hettinger@annie.ca",
             "state": "OH",
-            "city": "Roscoeview",
+            "city": "Dublin",
             "zipcode": "33263",
             "geo": {
                 "lat": "40.080785",
@@ -90,7 +90,7 @@
             "username": "Leopoldo_Corkery",
             "email": "Karley_Dach@jasper.info",
             "state": "OH",
-            "city": "South Christy",
+            "city": "Dublin",
             "zipcode": "23505-1337",
             "geo": {
                 "lat": "40.080785",
@@ -105,7 +105,7 @@
             "username": "Elwyn.Skiles",
             "email": "Telly.Hoeger@billy.biz",
             "state": "OH",
-            "city": "Howemouth",
+            "city": "Mansfield",
             "zipcode": "58804-1099",
             "geo": {
                 "lat": "40.080785",
@@ -120,7 +120,7 @@
             "username": "Maxime_Nienow",
             "email": "Sherwood@rosamond.me",
             "state": "OH",
-            "city": "Aliyaview",
+            "city": "Ashland",
             "zipcode": "45169",
             "geo": {
                 "lat": "40.080785",
@@ -135,7 +135,7 @@
             "username": "Delphine",
             "email": "Chaim_McDermott@dana.io",
             "state": "OH",
-            "city": "Bartholomebury",
+            "city": "Dublin",
             "zipcode": "76495-3109",
             "geo": {
                 "lat": "40.080785",
@@ -150,7 +150,7 @@
             "username": "Moriah.Stanton",
             "email": "Rey.Padberg@karina.biz",
             "state": "OH",
-            "city": "Lebsackbury",
+            "city": "Dublin",
             "zipcode": "31428-2261",
             "geo": {
                 "lat": "40.080785",
@@ -162,7 +162,22 @@
     ],
     "items": [
         {
-            "name": "Item 1"
+            "id": 1,
+            "name": "Xbox Controller",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "user": 1
+        },
+        {
+            "id": 2,
+            "name": "iPhone",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "user": 1
+        },
+        {
+            "id": 3,
+            "name": "Bose Headphones",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "user": 2
         }
     ]
 }
