@@ -1,13 +1,4 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hellos"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
     "users": [
         {
             "id": 1,
@@ -161,5 +152,8 @@
         }
     ],
     "items": [
+        {
+            "name": "Item 1"
+        }
     ]
 }
