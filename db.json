@@ -165,19 +165,19 @@
             "id": 1,
             "name": "Xbox Controller",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "user": 1
+            "userId": 1
         },
         {
             "id": 2,
             "name": "iPhone",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "user": 1
+            "userId": 1
         },
         {
             "id": 3,
             "name": "Bose Headphones",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "user": 2
+            "userId": 2
         }
     ]
 }
