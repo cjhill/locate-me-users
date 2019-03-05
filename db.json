@@ -175,25 +175,29 @@
             "id": 1,
             "name": "Xbox Controller",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "userId": 1
+            "userId": 1,
+            "isNeeded": true
         },
         {
             "id": 2,
             "name": "iPhone",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "userId": 1
+            "userId": 1,
+            "isNeeded": true
         },
         {
             "id": 3,
             "name": "Bose Headphones",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf.",
-            "userId": 2
+            "userId": 2,
+            "isNeeded": true
         },
         {
             "id": 4,
             "name": "Monitor",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf.",
-            "userId": 1
+            "userId": 1,
+            "isNeeded": false
         }
     ]
 }
