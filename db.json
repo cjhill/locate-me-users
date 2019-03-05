@@ -178,6 +178,12 @@
             "name": "Bose Headphones",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf.",
             "userId": 2
+        },
+        {
+            "id": 4,
+            "name": "Monitor",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf.",
+            "userId": 1
         }
     ]
 }
