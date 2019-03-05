@@ -22,7 +22,8 @@
                 "lng": "-83.140545"
             },
             "phone": "1-770-736-8031 x56442",
-            "website": "hildegard.org"
+            "website": "hildegard.org",
+            "isLooking": true
         },
         {
             "id": 2,
@@ -37,7 +38,8 @@
                 "lng": "-83.140656"
             },
             "phone": "010-692-6593 x09125",
-            "website": "anastasia.net"
+            "website": "anastasia.net",
+            "isLooking": true
         },
         {
             "id": 3,
@@ -52,7 +54,8 @@
                 "lng": "-83.140756"
             },
             "phone": "1-463-123-4447",
-            "website": "ramiro.info"
+            "website": "ramiro.info",
+            "isLooking": false
         },
         {
             "id": 4,
@@ -67,7 +70,8 @@
                 "lng": "-83.140766"
             },
             "phone": "493-170-9623 x156",
-            "website": "kale.biz"
+            "website": "kale.biz",
+            "isLooking": false
         },
         {
             "id": 5,
@@ -82,7 +86,8 @@
                 "lng": "-83.140769"
             },
             "phone": "(254)954-1289",
-            "website": "demarco.info"
+            "website": "demarco.info",
+            "isLooking": false
         },
         {
             "id": 6,
@@ -97,7 +102,8 @@
                 "lng": "-83.140770"
             },
             "phone": "1-477-935-8478 x6430",
-            "website": "ola.org"
+            "website": "ola.org",
+            "isLooking": false
         },
         {
             "id": 7,
@@ -112,7 +118,8 @@
                 "lng": "-83.140780"
             },
             "phone": "210.067.6132",
-            "website": "elvis.io"
+            "website": "elvis.io",
+            "isLooking": false
         },
         {
             "id": 8,
@@ -127,7 +134,8 @@
                 "lng": "-83.140980"
             },
             "phone": "586.493.6943 x140",
-            "website": "jacynthe.com"
+            "website": "jacynthe.com",
+            "isLooking": false
         },
         {
             "id": 9,
@@ -142,7 +150,8 @@
                 "lng": "-83.141980"
             },
             "phone": "(775)976-6794 x41206",
-            "website": "conrad.com"
+            "website": "conrad.com",
+            "isLooking": false
         },
         {
             "id": 10,
@@ -157,7 +166,8 @@
                 "lng": "-83.141990"
             },
             "phone": "024-648-3804",
-            "website": "ambrose.net"
+            "website": "ambrose.net",
+            "isLooking": false
         }
     ],
     "items": [
