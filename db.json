@@ -204,12 +204,14 @@
         {
             "productId": 1,
             "userId": 1,
-            "submittedUserId": 4
+            "submittedUserId": 4,
+            "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf."
         },
         {
             "productId": 2,
             "userId": 1,
-            "submittedUserId": 7
+            "submittedUserId": 7,
+            "descriptions": "Lorem ipsum dolor sit amet, consectetur adipiscing elitf."
         }
     ]
 }
