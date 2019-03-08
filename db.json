@@ -199,5 +199,17 @@
             "userId": 1,
             "isNeeded": false
         }
+    ],
+    "SubmittedItem": [
+        {
+            "productId": 1,
+            "userId": 1,
+            "submittedUserId": 4
+        },
+        {
+            "productId": 2,
+            "userId": 1,
+            "submittedUserId": 7
+        }
     ]
 }
